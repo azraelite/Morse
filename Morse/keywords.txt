@@ -1,0 +1,12 @@
+####################
+# Functions
+####################
+moe KEYWORD2
+moi KEYWORD2
+mos	KEYWORD2
+moh KEYWORD2
+mo5	KEYWORD2
+test	KEYWORD2
+signal_short_gap	KEYWORD2
+Morse	KEYWORD2
+setupMorse	KEYWORD2
